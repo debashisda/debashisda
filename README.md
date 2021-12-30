@@ -9,5 +9,5 @@
 			 ███ ▄█▄ ███   ███    ███ ███▌    ▄ ███    ███ ███    ███ ███   ███   ███   ███    ███ 
 			 ▀███▀███▀    ██████████ █████▄▄██ ████████▀   ▀██████▀   ▀█   ███   █▀    ██████████ 
                          ▀                                                            
-                     <strong>Welcome to my GitHub profile.</strong>
+                     			<strong>Welcome to my GitHub profile.</strong>
 </pre>
